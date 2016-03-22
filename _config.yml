@@ -1,6 +1,6 @@
 name: beanswithbeans
 favicon: null
-layout_spectrum: 0.97275
+layout_spectrum: 0.88698
 typography_spectrum: 0.73526
 title: 'Beans with beans!'
 cta:
@@ -23,7 +23,7 @@ color:
     - '#ddd2cc'
     - '#4e311f'
   brandStrength: 0.125
-  lightness: 0.8125
-  saturation: 0.5625
-  rhythmicContrast: 0.5
+  lightness: 0.3125
+  saturation: 0.375
+  rhythmicContrast: 0.25
 purpose: []
