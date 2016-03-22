@@ -1,7 +1,7 @@
 name: beanswithbeans
 favicon: null
-layout_spectrum: 0.5770658901892602
-typography_spectrum: 0.4385043568909168
+layout_spectrum: 0.99733
+typography_spectrum: 0.73526
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.1662993454374373
-  lightness: 0.33444897760637105
-  saturation: 0.03751690895296633
-  rhythmicContrast: 0.327067116741091
+    - '#ffffff'
+    - '#040404'
+    - '#c9c7c8'
+    - '#474546'
+    - '#6e6c6d'
+  brandStrength: 0.3125
+  lightness: 0.5625
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
